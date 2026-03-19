@@ -239,9 +239,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/c0694718-1c2b-4de3-a2e5-acd1c99d5b1f" width="600">
-</p>
-
-https://github.com/user-attachments/assets/79246114-6c29-4118-9f9b-27a2ecda93a4
+</p> 
+<h3>The Unicore Ecosystem: How It Works</h3>
+<p>https://github.com/user-attachments/assets/01f915d8-0fd3-42c4-99fb-035e3106e40b</p>
 
 
 
