@@ -222,7 +222,7 @@ This project is licensed under the [MIT License](LICENSE).
 <h2>Project Screenshot</h2>
 
 <p align="center">
-<img src="login_page.png" width="600">
+<img src="https://github.com/user-attachments/assets/482464f9-d6eb-43d6-9aae-a61fdf3b3a81" width="600">
 </p>
 
 <p align="center">
