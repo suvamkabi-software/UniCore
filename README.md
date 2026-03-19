@@ -222,7 +222,7 @@ This project is licensed under the [MIT License](LICENSE).
 <h2>Project Screenshot</h2>
 
 <p align="center">
-<img src="https://github.com/suvamkabi-software/SecureBank-Management-System/blob/ffe554019bbf9de55ddd5d627acad126bcb0ad61/login_page.png" width="600">
+<img src="login_page.png" width="600">
 </p>
 
 <p align="center">
