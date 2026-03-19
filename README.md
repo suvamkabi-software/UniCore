@@ -226,8 +226,9 @@ This project is licensed under the [MIT License](LICENSE).
 </p>
 
 <p align="center">
-<img src="https://github.com/suvamkabi-software/SecureBank-Management-System/blob/f72d22ae6641d1b4285ac9cd0f30b4656aeadc35/form.jpg" width="600">
+<img src="https://github.com/user-attachments/assets/c2998d7f-1181-4af4-b903-7a7102ae548f" width="600">
 </p>
+
 <p align="center">
 <img src="transa.jpg" width="600">
 </p>
