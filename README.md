@@ -238,7 +238,7 @@ This project is licensed under the [MIT License](LICENSE).
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1c53f618-c7bb-4464-844c-ef0af1c332b3" width="600">
+<img src="https://github.com/user-attachments/assets/c0694718-1c2b-4de3-a2e5-acd1c99d5b1f" width="600">
 </p>
 
 https://github.com/user-attachments/assets/79246114-6c29-4118-9f9b-27a2ecda93a4
