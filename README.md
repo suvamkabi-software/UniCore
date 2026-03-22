@@ -19,9 +19,7 @@ Managing a university's day-to-day operations — from student enrollment to fac
 UniCore consolidates all core university functions into a single desktop application, reducing manual errors, saving time, and giving administrators full visibility into institutional data at a glance.
 
 > ⭐ **UniCore — The Core of Smart University Management**
-
 ---
-
 ## 🚀 Features
 
 | Module | Description |
